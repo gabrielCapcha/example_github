@@ -1,0 +1,17 @@
+1.- Crear tu repositorio Git
+2.- En tu pc, ejecutar el comado git clone https://github.com/gabrielzz740/const.git
+3.- Abres la carpeta y pegas tu proyecto.
+4.- En la consola te ubicas en la carpeta de tu proyecto y ejecutas:
+	-git add .
+	-git commit -m "first commit"
+	-git push origin master
+5.- Ingresas a tu repositorio en github y creas ramas secundarias por cada integrante
+6.- Independientemente cada integrante se descarga el proyecto y crea
+su propia rama local (debe tener el mismo nombre que la de github)
+7.- Cuando quieras hacer cambios en el código debes ubicarte en tu rama personal
+8.- Terminando tu dia de trabajo debes hacer:
+	- git add .
+	- git commit - m "my changes"
+	- git push origin "la rama en que estas trabajando"
+9.- Ingresas al github y haces un pull request apuntando a la rama principal
+10.- Hacer el merge y luego bajar cambios al iniciar el dia de trabajo
